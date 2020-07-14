@@ -1,0 +1,14 @@
+{
+  "name": "redux-demo",
+  "version": "",
+  "description": "",
+  "main": "applyMiddleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
